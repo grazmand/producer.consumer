@@ -1,0 +1,3 @@
+C:/Users/Graziano/Desktop/assignment_producer-consumer/src/consumer/build consumer/CMakeFiles/consumer.dir
+C:/Users/Graziano/Desktop/assignment_producer-consumer/src/consumer/build consumer/CMakeFiles/ALL_BUILD.dir
+C:/Users/Graziano/Desktop/assignment_producer-consumer/src/consumer/build consumer/CMakeFiles/ZERO_CHECK.dir
