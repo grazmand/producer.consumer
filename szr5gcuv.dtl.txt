@@ -1,0 +1,114 @@
+﻿ok
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    src/consumer/build consumer/ALL_BUILD.vcxproj
+#	deleted:    src/consumer/build consumer/ALL_BUILD.vcxproj.filters
+#	deleted:    src/consumer/build consumer/CMakeCache.txt
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CMakeCCompiler.cmake
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CMakeCXXCompiler.cmake
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CMakeDetermineCompilerABI_C.bin
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CMakeDetermineCompilerABI_CXX.bin
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CMakeRCCompiler.cmake
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CMakeSystem.cmake
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdC/CMakeCCompilerId.c
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdC/CompilerIdC.exe
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdC/CompilerIdC.vcxproj
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdC/Debug/CMakeCCompilerId.obj
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdC/Debug/CompilerIdC.tlog/CL.read.1.tlog
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdC/Debug/CompilerIdC.tlog/CL.write.1.tlog
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdC/Debug/CompilerIdC.tlog/CompilerIdC.lastbuildstate
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdC/Debug/CompilerIdC.tlog/cl.command.1.tlog
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdC/Debug/CompilerIdC.tlog/link.command.1.tlog
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdC/Debug/CompilerIdC.tlog/link.read.1.tlog
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdC/Debug/CompilerIdC.tlog/link.write.1.tlog
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdCXX/CompilerIdCXX.exe
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdCXX/CompilerIdCXX.vcxproj
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdCXX/Debug/CMakeCXXCompilerId.obj
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CL.read.1.tlog
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CL.write.1.tlog
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CompilerIdCXX.lastbuildstate
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdCXX/Debug/CompilerIdCXX.tlog/cl.command.1.tlog
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdCXX/Debug/CompilerIdCXX.tlog/link.command.1.tlog
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdCXX/Debug/CompilerIdCXX.tlog/link.read.1.tlog
+#	deleted:    src/consumer/build consumer/CMakeFiles/3.8.1/CompilerIdCXX/Debug/CompilerIdCXX.tlog/link.write.1.tlog
+#	deleted:    src/consumer/build consumer/CMakeFiles/CMakeOutput.log
+#	deleted:    src/consumer/build consumer/CMakeFiles/TargetDirectories.txt
+#	deleted:    src/consumer/build consumer/CMakeFiles/b1661420c2240f269d807c04bd3351b9/generate.stamp.rule
+#	deleted:    src/consumer/build consumer/CMakeFiles/cmake.check_cache
+#	deleted:    src/consumer/build consumer/CMakeFiles/feature_tests.bin
+#	deleted:    src/consumer/build consumer/CMakeFiles/feature_tests.cxx
+#	deleted:    src/consumer/build consumer/CMakeFiles/generate.stamp
+#	deleted:    src/consumer/build consumer/CMakeFiles/generate.stamp.depend
+#	deleted:    src/consumer/build consumer/CMakeFiles/generate.stamp.list
+#	deleted:    src/consumer/build consumer/ZERO_CHECK.vcxproj
+#	deleted:    src/consumer/build consumer/ZERO_CHECK.vcxproj.filters
+#	deleted:    src/consumer/build consumer/cmake_install.cmake
+#	deleted:    src/consumer/build consumer/consumer.dir/Release/consumer.log
+#	deleted:    src/consumer/build consumer/consumer.dir/Release/consumer.obj
+#	deleted:    src/consumer/build consumer/consumer.dir/Release/consumer.tlog/CL.read.1.tlog
+#	deleted:    src/consumer/build consumer/consumer.dir/Release/consumer.tlog/CL.write.1.tlog
+#	deleted:    src/consumer/build consumer/consumer.dir/Release/consumer.tlog/cl.command.1.tlog
+#	deleted:    src/consumer/build consumer/consumer.dir/Release/consumer.tlog/consumer.lastbuildstate
+#	deleted:    src/consumer/build consumer/consumer.dir/Release/consumer.tlog/custombuild.command.1.tlog
+#	deleted:    src/consumer/build consumer/consumer.dir/Release/consumer.tlog/custombuild.read.1.tlog
+#	deleted:    src/consumer/build consumer/consumer.dir/Release/consumer.tlog/custombuild.write.1.tlog
+#	deleted:    src/consumer/build consumer/consumer.dir/Release/consumer.tlog/link.command.1.tlog
+#	deleted:    src/consumer/build consumer/consumer.dir/Release/consumer.tlog/link.read.1.tlog
+#	deleted:    src/consumer/build consumer/consumer.dir/Release/consumer.tlog/link.write.1.tlog
+#	deleted:    src/consumer/build consumer/consumer.opensdf
+#	deleted:    src/consumer/build consumer/consumer.sdf
+#	deleted:    src/consumer/build consumer/consumer.sln
+#	deleted:    src/consumer/build consumer/consumer.vcxproj
+#	deleted:    src/consumer/build consumer/consumer.vcxproj.filters
+#	deleted:    src/consumer/build consumer/x64/Release/ALL_BUILD/ALL_BUILD.log
+#	deleted:    src/consumer/build consumer/x64/Release/ALL_BUILD/ALL_BUILD.tlog/ALL_BUILD.lastbuildstate
+#	deleted:    src/consumer/build consumer/x64/Release/ALL_BUILD/ALL_BUILD.tlog/custombuild.command.1.tlog
+#	deleted:    src/consumer/build consumer/x64/Release/ALL_BUILD/ALL_BUILD.tlog/custombuild.read.1.tlog
+#	deleted:    src/consumer/build consumer/x64/Release/ALL_BUILD/ALL_BUILD.tlog/custombuild.write.1.tlog
+#	deleted:    src/consumer/build consumer/x64/Release/ZERO_CHECK/ZERO_CHECK.log
+#	deleted:    src/consumer/build consumer/x64/Release/ZERO_CHECK/ZERO_CHECK.tlog/ZERO_CHECK.lastbuildstate
+#	deleted:    src/consumer/build consumer/x64/Release/ZERO_CHECK/ZERO_CHECK.tlog/custombuild.command.1.tlog
+#	deleted:    src/consumer/build consumer/x64/Release/ZERO_CHECK/ZERO_CHECK.tlog/custombuild.read.1.tlog
+#	deleted:    src/consumer/build consumer/x64/Release/ZERO_CHECK/ZERO_CHECK.tlog/custombuild.write.1.tlog
+#	deleted:    src/producer/build producer/ALL_BUILD.vcxproj
+#	deleted:    src/producer/build producer/ALL_BUILD.vcxproj.filters
+#	deleted:    src/producer/build producer/ZERO_CHECK.vcxproj
+#	deleted:    src/producer/build producer/ZERO_CHECK.vcxproj.filters
+#	deleted:    src/producer/build producer/cmake_install.cmake
+#	deleted:    src/producer/build producer/producer.dir/Release/producer.log
+#	deleted:    src/producer/build producer/producer.dir/Release/producer.obj
+#	deleted:    src/producer/build producer/producer.dir/Release/producer.tlog/CL.read.1.tlog
+#	deleted:    src/producer/build producer/producer.dir/Release/producer.tlog/CL.write.1.tlog
+#	deleted:    src/producer/build producer/producer.dir/Release/producer.tlog/cl.command.1.tlog
+#	deleted:    src/producer/build producer/producer.dir/Release/producer.tlog/custombuild.command.1.tlog
+#	deleted:    src/producer/build producer/producer.dir/Release/producer.tlog/custombuild.read.1.tlog
+#	deleted:    src/producer/build producer/producer.dir/Release/producer.tlog/custombuild.write.1.tlog
+#	deleted:    src/producer/build producer/producer.dir/Release/producer.tlog/link.command.1.tlog
+#	deleted:    src/producer/build producer/producer.dir/Release/producer.tlog/link.read.1.tlog
+#	deleted:    src/producer/build producer/producer.dir/Release/producer.tlog/link.write.1.tlog
+#	deleted:    src/producer/build producer/producer.dir/Release/producer.tlog/producer.lastbuildstate
+#	deleted:    src/producer/build producer/producer.sdf
+#	deleted:    src/producer/build producer/producer.sln
+#	deleted:    src/producer/build producer/producer.v12.suo
+#	deleted:    src/producer/build producer/producer.vcxproj
+#	deleted:    src/producer/build producer/producer.vcxproj.filters
+#	deleted:    src/producer/build producer/x64/Release/ALL_BUILD/ALL_BUILD.log
+#	deleted:    src/producer/build producer/x64/Release/ALL_BUILD/ALL_BUILD.tlog/ALL_BUILD.lastbuildstate
+#	deleted:    src/producer/build producer/x64/Release/ALL_BUILD/ALL_BUILD.tlog/custombuild.command.1.tlog
+#	deleted:    src/producer/build producer/x64/Release/ALL_BUILD/ALL_BUILD.tlog/custombuild.read.1.tlog
+#	deleted:    src/producer/build producer/x64/Release/ALL_BUILD/ALL_BUILD.tlog/custombuild.write.1.tlog
+#	deleted:    src/producer/build producer/x64/Release/ZERO_CHECK/ZERO_CHECK.log
+#	deleted:    src/producer/build producer/x64/Release/ZERO_CHECK/ZERO_CHECK.tlog/ZERO_CHECK.lastbuildstate
+#	deleted:    src/producer/build producer/x64/Release/ZERO_CHECK/ZERO_CHECK.tlog/custombuild.command.1.tlog
+#	deleted:    src/producer/build producer/x64/Release/ZERO_CHECK/ZERO_CHECK.tlog/custombuild.read.1.tlog
+#	deleted:    src/producer/build producer/x64/Release/ZERO_CHECK/ZERO_CHECK.tlog/custombuild.write.1.tlog
+#
+# Untracked files:
+#	ialtezf4.nb2.txt
+#
+
